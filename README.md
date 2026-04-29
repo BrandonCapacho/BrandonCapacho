@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/JavaFX-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
