@@ -53,7 +53,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonCapacho&repo=GestionTalleres&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonCapacho&repo=CyberMath_VideoGame&theme=tokyonight" />
-</p>
+
