@@ -7,7 +7,7 @@
 
 ### 💫 About Me:
 
-👋 **¡Hola! Un gusto saludarte.** Soy estudiante de tercer semestre de **Ingeniería de Sistemas** en la Universidad de Santander (UDES). Me apasiona el desarrollo de software robusto, la lógica de programación y la seguridad informática.
+👋 **¡Hola! Un gusto saludarte.** Soy estudiante de  **Ingeniería de Sistemas** en la EAN. Me apasiona el desarrollo de software robusto, la lógica de programación y la seguridad informática.
 
 🚀 Mi objetivo es aplicar mis conocimientos técnicos en proyectos innovadores que desafíen mis habilidades. Actualmente estoy enfocado en perfeccionar mi manejo de **Java** y **JavaFX**, mientras exploro el fascinante mundo de la **Ciberseguridad**.
 
