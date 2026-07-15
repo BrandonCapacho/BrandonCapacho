@@ -54,8 +54,7 @@
 
 ### 🏢 Núcleo Enterprises — *Full-Stack Developer*
 
-ERP SaaS **multi-tenant** para pymes colombianas: facturación electrónica **DIAN**, POS, inventario, CRM, nómina y contabilidad, más un vertical para **Centros de Diagnóstico Automotor (CDA)** con integración **RUNT**, vigencia **SOAT** automática y automatización del registro **RTM**.
-
+ERP SaaS **multi-tenant** para pymes colombianas.
 `React` `TypeScript` `TanStack Start` `Supabase (PostgreSQL + RLS)` `Tailwind CSS` `Cloudflare Workers` `Agentes de IA por WhatsApp`
 
 </td>
